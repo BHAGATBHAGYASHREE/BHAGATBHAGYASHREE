@@ -1,5 +1,6 @@
 ### WELCOME TO BHAGYASHREE BHAGAT'S GITHUB👋
-
+🔭 I’m currently learning Python ...
+🌱 I’m currently learning C++ ..
 <!--
 **BHAGATBHAGYASHREE/BHAGATBHAGYASHREE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
