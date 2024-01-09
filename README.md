@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BHAGYASHREE BHAGAT</h1>
 <h3 align="center">1st Year Computer Science Student at ITM Skills University</h3>
-<img align=“right” alt=”coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.amp.dev%2F2020%2F04%2F24%2Fintroducing-code-fi-the-amp-code-from-home-music-mix%2F&psig=AOvVaw02fL_rRVuTHrZB7PfOLnv-&ust=1704914967833000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDd56-F0YMDFQAAAAAdAAAAABAO”>
+<img align=“right” alt=”coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700&psig=AOvVaw02fL_rRVuTHrZB7PfOLnv-&ust=1704914967833000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDd56-F0YMDFQAAAAAdAAAAABAX”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagatbhagyashree&label=Profile%20views&color=0e75b6&style=flat" alt="bhagatbhagyashree" /> </p>
 
 - 🌱 I’m currently learning **Python,C++**
