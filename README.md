@@ -1,3 +1,84 @@
+<div align="center">
+<img src="https://media.licdn.com/dms/image/D4E16AQGmemy13Gbr4A/profile-displaybackgroundimage-shrink_200_800/0/1695665303860?e=2147483647&v=beta&t=hUM2JLANxKtlbXB1pzO8Ve2LUhnZcrf3Kq54GcUupA0" align="center" style="width: 100%" />
+</div>  
+  
+
+## <div align="center">  Hey!! I am Bhagyashree Bhagat
+First-year Student at 📍 ITM Slills University🏫 pursuing Computer Science Engineering 🔌. </div>  
+  
+
+- 🌍  I'm based in Navi Mumbai , India  
+  
+
+- 🧠  I'm learning Python and C++
+  
+  
+
+- ✉️  You can contact me at [bhagyashreebhagat8@gmail.com](mailto:bhagyashreebhagat8@gmail.com)  
+  
+
+- ⚡ Fun fact: Can debug code and tell a joke simultaneously
+    
+  
+
+
+
+### MY SKILLS  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>  
+
+
+
+### Connect with me  
+<a href="https://github.com/BHAGATBHAGYASHREE" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/bhagyashree-bhagat-10350328a" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+
+
+### Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bhagatbhagyashree&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhagyashree bhagat
 ==========================================================================================================================================
 
