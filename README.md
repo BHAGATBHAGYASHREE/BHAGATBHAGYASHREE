@@ -9,13 +9,13 @@
 
   1st year computer science student at ITM Skills University
 ----------------------------------------------------------
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" alt="coding" width="250" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 
 * 🌍  I'm based in Navi Mumbai , India
 * ✉️  You can contact me at [bhagyashreebhagat8@gmail.com](mailto:bhagyashreebhagat8@gmail.com)
 * 🧠  I'm learning Python and C++
-* ⚡  Can debug code and tell a joke simultaneously
+* ⚡  Can debug code and tell a joke simultaneousl
 
 <a href="https://www.github.com/bhagatbhagyashree" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bhagatbhagyashree?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
@@ -40,12 +40,12 @@ src="https://img.shields.io/github/followers/bhagatbhagyashree?logo=github&style
 <h2 align="left">GitHub Stats:</h2>
 
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bhagatbhagyashree&show_icons=true&locale=en&theme=midnight-purple" alt="bhagatbhagyashree" /></p>
+<p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=bhagatbhagyashree&show_icons=true&locale=en&theme=midnight-purple" alt="bhagatbhagyashree" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">Statistics</h2>
 <div align="center">
 <a href="https://github.com/bhagatbhagyashree">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhagatbhagyashree&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhagatbhagyashree&theme=midnight_purple" height="250em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bhagatbhagyashree&theme=nightowl"/>
