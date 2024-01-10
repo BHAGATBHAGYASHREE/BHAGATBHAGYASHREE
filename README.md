@@ -1,8 +1,6 @@
 <div align="center">
-
-<img src="https://media1.tenor.com/m/i22Batz8ryoAAAAd/lofi.gif" align="center"  height="250" style="width: 100%" width="1000"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="center"  height="250" style="width: 100%" width="1000"/>
 </div>
-  
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=733FD0&random=false&width=690&height=64&lines=WELCOME+TO+MY+GITHUB++PROFILE;+++++++++++++++I'M+BHAGYASHREE+BHAGAT" alt="Typing SVG" /></a>
@@ -81,6 +79,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bhagatbhagyashree.bhagatbhagyashree"/>
 
 
+  https://media1.tenor.com/m/i22Batz8ryoAAAAd/lofi.gif
 
 
 
