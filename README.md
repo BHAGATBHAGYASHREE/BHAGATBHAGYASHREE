@@ -1,24 +1,38 @@
-<h1 align="center">Hi 👋, I'm BHAGYASHREE BHAGAT</h1>
-<h3 align="center">1st Year Computer Science Student at ITM Skills University</h3>
-<img align=“right” alt=”coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700&psig=AOvVaw02fL_rRVuTHrZB7PfOLnv-&ust=1704914967833000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDd56-F0YMDFQAAAAAdAAAAABAX”>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagatbhagyashree&label=Profile%20views&color=0e75b6&style=flat" alt="bhagatbhagyashree" /> </p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhagyashree bhagat
+==========================================================================================================================================
 
-- 🌱 I’m currently learning **Python,C++**
+1st year computer science student at ITM Skills University
+----------------------------------------------------------
 
-- 📫 How to reach me **bhagyashreebhagat8@gmail.com**
+Hey!! I am Bhagyashree Bhagat, First-year Student at 📍 ITM Slills University🏫 pursuing Computer Science Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻.
 
-- ⚡ Fun fact **can debug code and tell a joke simultaneously**
+* 🌍  I'm based in Navi Mumbai , India
+* ✉️  You can contact me at [bhagyashreebhagat8@gmail.com](mailto:bhagyashreebhagat8@gmail.com)
+* 🧠  I'm learning Python and C++
+* ⚡  Can debug code and tell a joke simultaneously
 
-<h3 align="left">Connect with me:</h3>
+<a href="https://www.github.com/bhagatbhagyashree" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/bhagatbhagyashree?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+
+### Skills
+
+
 <p align="left">
-<a href="https://linkedin.com/in/bhagyashree bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagyashree bhagat" height="30" width="40" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/htm=l5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagatbhagyashree&show_icons=true&locale=en&layout=compact" alt="bhagatbhagyashree" /></p>
+### Socials
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagatbhagyashree&show_icons=true&locale=en" alt="bhagatbhagyashree" /></p>
+<p align="left"> <a href="https://www.github.com/bhagatbhagyashree" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bhagyashree bhagat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatbhagyashree&" alt="bhagatbhagyashree" /></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/bhagatbhagyashree"><img src="https://github-readme-stats.vercel.app/api?username=bhagatbhagyashree&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="bhagatbhagyashree's GitHub stats" /></a>
+
+<a href="http://www.github.com/bhagatbhagyashree"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatbhagyashree&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/bhagatbhagyashree"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bhagatbhagyashree&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
