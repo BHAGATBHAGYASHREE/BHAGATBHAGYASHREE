@@ -67,7 +67,7 @@
 
 <h2 align="left">GitHub Stats:</h2>
 
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
 
 <p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=bhagatbhagyashree&show_icons=true&locale=en&theme=midnight-purple" alt="bhagatbhagyashree" /></p>
 
