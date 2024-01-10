@@ -1,24 +1,38 @@
 <div align="center">
 <img src="https://media.licdn.com/dms/image/D4E16AQGmemy13Gbr4A/profile-displaybackgroundimage-shrink_200_800/0/1695665303860?e=2147483647&v=beta&t=hUM2JLANxKtlbXB1pzO8Ve2LUhnZcrf3Kq54GcUupA0" align="center" style="width: 100%" />
 </div>  
-  
 
-   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhagyashree bhagat
-==========================================================================================================================================
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=733FD0&random=false&width=690&height=64&lines=WELCOME+TO+MY+GITHUB++PROFILE;+++++++++++++++I'M+BHAGYASHREE+BHAGAT" alt="Typing SVG" /></a>
+</h1>
+
+
+<br/>
+
+<div align="center">
+ 
+
+    
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  1st year computer science student at ITM Skills University
-----------------------------------------------------------
 <img align="right" alt="coding" width="250" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
+
+  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)ABOUT ME!
+==========================================================================================================================================
+
+1st year computer science student at ITM Skills University
+----------------------------------------------------------
 
 * 🌍  I'm based in Navi Mumbai , India
 * ✉️  You can contact me at [bhagyashreebhagat8@gmail.com](mailto:bhagyashreebhagat8@gmail.com)
 * 🧠  I'm learning Python and C++
-* ⚡  Can debug code and tell a joke simultaneousl
+* 🔭 AppSheet [GUESTHUB](https://www.appsheet.com/start/9209a919-e250-416a-8463-b82b6b5aa789)
+* ⚡  Can debug code and tell a joke simultaneously
 
-<a href="https://www.github.com/bhagatbhagyashree" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bhagatbhagyashree?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -47,24 +61,7 @@ src="https://img.shields.io/github/followers/bhagatbhagyashree?logo=github&style
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p
 <div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bhagatbhagyashree/bhagatbhagyashree/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bhagatbhagyashree/bhagatbhagyashree/output/github-contribution-grid-snake.svg" />
-
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<div align="center">
-    
-</p>
-
-
-
-
-
-
+  
 
 <h2 align="left">GitHub Stats:</h2>
 
@@ -78,30 +75,9 @@ src="https://img.shields.io/github/followers/bhagatbhagyashree?logo=github&style
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bhagatbhagyashree&theme=nightowl"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bhagatbhagyashree.bhagatbhagyashree"/>
 
 
 
-
-
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jeevan-04.Jeevan-04"/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🙏+Namō+Namaḥ!;+I'm+Jeevan+Naidu!;" />
-</h1>
-
-<h3 align="center">Passionate computer science student immersed in the enchanting realms of ancient Bhārata 🛕</h3>
-
-<br/>
-
-<div align="center">
- 
-
-    
-<
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-![snake gif](https://github.com/bhagatbhagyashree/bhagatbhagyashree/blob/output/github-contribution-grid-snake.gif)
 
 
