@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-<img src="  https://media1.tenor.com/m/i22Batz8ryoAAAAd/lofi.gif
-" align="center"  height="250" style="width: 100%" width="1000"/>
+<img src="  https://media1.tenor.com/m/i22Batz8ryoAAAAd/lofi.gif" align="center"  height="250" style="width: 100%" width="1000"/>
 </div>
 
 <h1 align="center">
