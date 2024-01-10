@@ -1,6 +1,6 @@
-
 <div align="center">
-<img src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gif" align="center" style="width: 100%" />
+<img src="https://media1.tenor.com/m/i22Batz8ryoAAAAd/lofi.gif" align="center"  height="250" style="width: 100%" width="1000"/>
+</div
 
 
 
@@ -89,8 +89,5 @@
 
 
 
-<div align="center">
-<img src="https://media1.tenor.com/m/i22Batz8ryoAAAAd/lofi.gif" align="center"  height="250" style="width: 100%" width="1000"/>
-</div
 
 
