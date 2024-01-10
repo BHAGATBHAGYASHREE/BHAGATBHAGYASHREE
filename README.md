@@ -45,6 +45,9 @@
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
  </a>
 </p>
+
+<img align="right" alt="coding" width="250" src="https://i.gifer.com/Ry6p.gif">
+
 <p
 <a
   <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
