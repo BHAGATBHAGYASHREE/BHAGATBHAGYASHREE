@@ -1,11 +1,11 @@
 <div align="center">
+
 <img src="https://media1.tenor.com/m/i22Batz8ryoAAAAd/lofi.gif" align="center"  height="250" style="width: 100%" width="1000"/>
-</div
-
-
+</div>
+  
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=733FD0&random=false&width=690&height=64&lines=WELCOME+TO+MY+GITHUB++PROFILE;+++++++++++++++I'M+BHAGYASHREE+BHAGAT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=733FD0&random=false&width=690&height=64&lines=WELCOME+TO+MY+GITHUB++PROFILE;+++++++++++++++I'M+BHAGYASHREE+BHAGAT" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -17,7 +17,6 @@
     
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="coding" width="250" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
@@ -80,7 +79,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bhagatbhagyashree&theme=nightowl"/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bhagatbhagyashree.bhagatbhagyashree"/>
-
 
 
 
