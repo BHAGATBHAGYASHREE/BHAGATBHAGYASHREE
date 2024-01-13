@@ -17,7 +17,6 @@
     
 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 
@@ -33,7 +32,6 @@
 * ⚡  Can debug code and tell a joke simultaneously
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
@@ -76,7 +74,6 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p
 <div align="center">
   
@@ -91,13 +88,11 @@
 <div align="center">
 <a href="https://github.com/bhagatbhagyashree">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhagatbhagyashree&theme=midnight_purple" height="250em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+</div><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bhagatbhagyashree&theme=nightowl"/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bhagatbhagyashree.bhagatbhagyashree"/>
 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
 
 
 
