@@ -29,7 +29,6 @@
 
 * 🌍  I'm based in Navi Mumbai , India
 * ✉️  You can contact me at [bhagyashreebhagat8@gmail.com](mailto:bhagyashreebhagat8@gmail.com)
-* 🧠  I'm learning Python and C++
 * 🔭 AppSheet [GUESTHUB](https://www.appsheet.com/start/9209a919-e250-416a-8463-b82b6b5aa789)
 * ⚡  Can debug code and tell a joke simultaneously
 
