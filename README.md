@@ -17,7 +17,6 @@
     
 
 </div>
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 
   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)ABOUT ME!
@@ -28,12 +27,15 @@
 
 * 🌍  I'm based in Navi Mumbai , India
 * ✉️  You can contact me at [bhagyashreebhagat8@gmail.com](mailto:bhagyashreebhagat8@gmail.com)
+     <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+
 * 🔭 AppSheet [GUESTHUB](https://www.appsheet.com/start/9209a919-e250-416a-8463-b82b6b5aa789)
 * ⚡  Can debug code and tell a joke simultaneously
+  
+  
 
 
 
-  <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <h2 align="left">💪🏻Skills:</h2>
 <p align="left">
