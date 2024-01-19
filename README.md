@@ -56,7 +56,7 @@
      <a href="https://skillicons.dev">
  <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="50" height="50"/>
   <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50"/>
-
+<img src="[https://www.wix.com/](https://cdn-icons-png.flaticon.com/512/5968/5968762.png)" width="50" height="50"/>
  </a>
 </p>  
  
