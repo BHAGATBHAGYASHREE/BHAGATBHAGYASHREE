@@ -42,6 +42,7 @@
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
 
  </a>
 </p>
@@ -50,13 +51,13 @@
 <p
 <a
   <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+ <img src="https://skillicons.dev/icons?i=git,vscode&theme=light" />
     <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" 
     height="50" 
      <a href="https://skillicons.dev">
  <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="50" height="50"/>
   <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50"/>
-<img src="[https://www.wix.com/](https://cdn-icons-png.flaticon.com/512/5968/5968762.png)" width="50" height="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968762.png" width="50" height="50"/>
  </a>
 </p>  
  
