@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <img src="https://media1.tenor.com/m/i22Batz8ryoAAAAd/lofi.gif" align="center"  height="250" style="width: 100%" width="1000"/>
 </div>
 
@@ -43,6 +43,7 @@
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
+    
 
  </a>
 </p>
@@ -50,14 +51,12 @@
 
 <p
 <a
-  <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
- <img src="https://skillicons.dev/icons?i=git,c,vscode,html &theme=light" />
-    <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" 
-    height="50" 
-     <a href="https://skillicons.dev">
- <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="50" height="50"/>
-  <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968762.png" width="50" height="50"/>
+ <img src="https://skillicons.dev/icons?i=vscode, &theme=light" /> 
+ <align="left"> <img width="43" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" title="c"/>  <img width="53" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" alt="scratch" title="scratch"/><img src="https://skillicons.dev/icons?i=git,github&theme=dark" /><img width="40" src="https://seeklogo.com/images/W/wix-logo-EC7D63748F-seeklogo.com.png" alt="wix" title="wix"/><img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"><img width="36" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg" alt="HTML5" title="HTML5"/> <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/><img width="45" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.svg" alt="CSS3" title="CSS3"/><img src="https://static.studytonight.com/css/resource.v3/icons/subject/logo-ds.svg" alt="dsa" border="0" width="53"><img width="58" src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" alt="flutterflow" title="flutterflow"/>
+
+</p>
+   
+    
 
  </a>
 </p>  
@@ -67,7 +66,7 @@
 <p align="left"> <a href="https://www.github.com/bhagatbhagyashree" target="_blank" rel="noreferrer"> <picture> 
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /> </picture> </a> <a href="https://www.linkedin.com/in/bhagyashree-bhagat-10350328a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /> </picture> </a>
 <a href="https://www.x.com/BHAGYASHREE286" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45" height="45" /> 
-   
+
 </picture> </a></p>
 
 
