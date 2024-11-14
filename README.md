@@ -22,7 +22,7 @@
   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)ABOUT ME!
 ==========================================================================================================================================
 
-1st year computer science student at ITM Skills University
+2nd year computer science student at ITM Skills University
 ----------------------------------------------------------
 
 * 🌍  I'm based in Navi Mumbai , India
